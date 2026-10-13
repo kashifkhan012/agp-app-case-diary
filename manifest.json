@@ -1,0 +1,12 @@
+{
+  "name": "AGP–APP Case Diary",
+  "short_name": "AGP Case Diary",
+  "description": "Advocate case, hearing, task and payment tracker",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6fa",
+  "theme_color": "#142b4a",
+  "icons": []
+}
